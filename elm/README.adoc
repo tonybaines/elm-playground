@@ -1,0 +1,10 @@
+== README
+
+* Install elm
+
+ `sudo npm install -g elm`
+
+* Create skeleton (in project directory)
+
+ `elm package install`
+
